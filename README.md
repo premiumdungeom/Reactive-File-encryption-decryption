@@ -11,7 +11,7 @@
 </h2>
 <h3><ol>
   <li>
-    First There's The "encrypt_all.py" and the "decrypt_all.py" :
+    First There's The "encrypt_all.py":
     <ul>
     <h4>
      <li>
