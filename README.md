@@ -1,4 +1,4 @@
-# This is Tool That Can Encrypt/Decrypt Single Type of Files Or All Files in  directory.
+# This is a Tool That Can Encrypt/Decrypt Single Type of Files Or All Files in  directory.
 <hr> 
 <h4>Here we Will be using The "myfiles" as the directory that all the codes will run on dealing with the files inside, and add your secrets as "API_KEY" and "Chat_ID"</h4>
 <hr>
