@@ -13,7 +13,7 @@
   <li>
     First There's The "encrypt_all.py":
     <ul>
-    <h4>
+    <h4><li>It has the encrypt() and decrypt() functions.<\li>
      <li>
       It Converts Every File of any type that's present inside the myfiles folder to a ".mortex" file which is a simple encrypted file it can be reversed using the "decrypt()" function.  
   </li>
