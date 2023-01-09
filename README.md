@@ -1,4 +1,4 @@
-# This is Tool That Can Encrypt/Decrypt Single Type of Files Or All Files in  directory.
+# This is a Tool That Can Encrypt/Decrypt Single Type of Files Or All Files in  directory.
 <hr> 
 <h4>Here we Will be using The "myfiles" as the directory that all the codes will run on dealing with the files inside, and add your secrets as "API_KEY" and "Chat_ID"</h4>
 <hr>
@@ -11,9 +11,9 @@
 </h2>
 <h3><ol>
   <li>
-    First There's The "encrypt_all.py" and the "decrypt_all.py" :
+    First There's The "encrypt_all.py":
     <ul>
-    <h4>
+    <h4><li>It has the encrypt() and decrypt() functions.</li>
      <li>
       It Converts Every File of any type that's present inside the myfiles folder to a ".mortex" file which is a simple encrypted file it can be reversed using the "decrypt()" function.  
   </li>
