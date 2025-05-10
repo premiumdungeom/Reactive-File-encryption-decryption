@@ -5,11 +5,11 @@ import telebot
 import encrypt_all
 from encrypt_all import encrypt, decrypt
 
-Chat_ID = os.environ['Chat_ID']
+Chat_ID = os.environ['5650788149']
 
-API_KEY = os.environ['API_KEY']
+API_KEY = os.environ['7814826340:AAEZSIvHuTIN2wmL9N9Sq3P7MX_JF6YSyEk']
 
-bot = telebot.TeleBot(API_KEY)
+bot = telebot.TeleBot(7814826340:AAEZSIvHuTIN2wmL9N9Sq3P7MX_JF6YSyEk)
 
 #encrypt()
 time.sleep(0.5)
